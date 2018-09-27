@@ -1,5 +1,5 @@
 {
-  "name": "loadify-vue",
+  "name": "vue-plugin-boilerplate",
   "version": "0.0.1",
   "description": "Vue 2.0 Plugin",
   "main": "app.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naznadmn/loadify-vue.git"
+    "url": "git+https://github.com/naznadmn/vue-plugin-boilerplate.git"
   },
   "author": "Nazaraly Nadirbek <nazaraly.nadirbek@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/naznadmn/loadify-vue/issues"
+    "url": "https://github.com/naznadmn/vue-plugin-boilerplate/issues"
   },
-  "homepage": "https://github.com/naznadmn/loadify-vue#readme",
+  "homepage": "https://github.com/naznadmn/vue-plugin-boilerplate#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
