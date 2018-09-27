@@ -1,0 +1,47 @@
+{
+  "name": "loadify-vue",
+  "version": "0.0.1",
+  "description": "Vue 2.0 Plugin",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naznadmn/loadify-vue.git"
+  },
+  "author": "Nazaraly Nadirbek <nazaraly.nadirbek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naznadmn/loadify-vue/issues"
+  },
+  "homepage": "https://github.com/naznadmn/loadify-vue#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.0",
+    "css-loader": "^0.28.5",
+    "eslint": "^5.6.0",
+    "eslint-plugin-vue": "^5.0.0-beta.3",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.5.3",
+    "pug": "^2.0.0-rc.3",
+    "sass-loader": "^6.0.6",
+    "uglifyjs-webpack-plugin": "^1.2.5",
+    "vue-loader": "^13.0.4",
+    "vue-template-compiler": "^2.5.13",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "dependencies": {
+    "vue": "^2.5.9"
+  },
+  "eslintIgnore": [
+    "webpack.config.js"
+  ]
+}

@@ -1,0 +1,8 @@
+# Folders
+node_modules
+
+# Hidden folders
+.vscode
+
+# Hidden files
+.DS_Store
